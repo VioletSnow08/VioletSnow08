@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there! I'm Vinnie. Here are some things about me.
+
+- 🐧 I am 17 years old.
+- 🖥️ I am currently working on: RoverCore and the Documentation
+- 🔤 Languages: English
+- ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS
+- 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, .NET Core, ASP.NET Core
+- 
