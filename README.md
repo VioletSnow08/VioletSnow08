@@ -20,4 +20,3 @@ Hi there! I'm Vinnie. Here are some things about me.
 - 🔤 Languages: English
 - ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS
 - 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, .NET Core, ASP.NET Core
-- 
