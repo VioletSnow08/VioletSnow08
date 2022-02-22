@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Vinnie. Here are some things about me.
+Hi there! I'm Vinnie. Manjaro is the best #changemymind. Here are some things about me.
 
 - 🐧 I am 17 years old.
+- ❗Linux > Windows > MacOS
 - 🖥️ I am currently working on: RoverCore and the Documentation
 - 🔤 Languages: English
 - ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS
