@@ -17,7 +17,7 @@ Hi there! I'm Vinnie. Manjaro is the best #changemymind. Here are some things ab
 
 - 🐧 I am 17 years old.
 - ❗Linux > Windows > MacOS
-- 🖥️ I am currently working on: RoverCore and the Documentation
+- 🖥️ I am currently working on: RoverCore, ThatStudyCompany(School Startup Project)
 - 🔤 Languages: English
-- ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS
-- 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, .NET Core, ASP.NET Core
+- ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS, Basic Python
+- 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, ASP(.NET Core)
