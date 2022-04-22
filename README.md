@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Vinnie. Manjaro is the best #changemymind. Here are some things about me.
+Hi there! I'm Vinnie. My team and I just won 3rd place for states in FBLA Mobile Application Development, and are going to Nationals in Chicago! Last year we won 1st place in states!!
 
 - 🐧 I am 17 years old.
 - ❗Linux > Windows > MacOS
