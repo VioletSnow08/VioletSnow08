@@ -1,5 +1,5 @@
 <!--
-**Notice: I have official moved of Github. Please visit https://git.vinniehat.com!**
+
 **vinniehat/vinniehat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Notice: I have official moved of Github. Please visit https://git.vinniehat.com!**
 Hi there! I'm Vinnie. My team and I just won 3rd place for states in FBLA Mobile Application Development, and are going to Nationals in Chicago! Last year we won 1st place in states!!
 
 - 🐧 I am 17 years old.
