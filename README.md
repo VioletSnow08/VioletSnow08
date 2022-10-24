@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Notice: I have officially moved of GitHub. Please visit https://git.vinniehat.com!**
+**Notice: I have officially moved off of GitHub. Please visit https://git.vinniehat.com!**
 
 Hi there! I'm Vinnie. My team and I just won 3rd place for states in FBLA Mobile Application Development, and are going to Nationals in Chicago! Last year we won 1st place in states!!
 
