@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Notice: I have officially moved off of GitHub. Please visit https://git.vinniehat.com!**
+**Notice: I have officially moved off of GitHub. Please visit https://git.vinniehat.com!** (Projects still get updated here though!!)
 
-Hi there! I'm Vinnie. My team and I just won 3rd place for states in FBLA Mobile Application Development, and are going to Nationals in Chicago! Last year we won 1st place in states!!
+Hi there! I'm Vinnie. My team and I are competing in Game Development FBLA! Last year we won 6th place nationally in Chicago!
 
-- 🐧 I am 17 years old.
+- 🐧 I am 18 years old.
 - ❗Linux > Windows > MacOS
-- 🖥️ I am currently working on: RoverCore, ThatStudyCompany(School Startup Project)
+- 🖥️ I am currently working on: RoverCore, Grana, LegionCore, PrideHub
 - 🔤 Languages: English
 - ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS, Basic Python
 - 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, ASP(.NET Core)
