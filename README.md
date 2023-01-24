@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 **Notice: I have officially moved off of GitHub. Please visit https://git.vinniehat.com!** (Projects still get updated here though!!)
 
-Hi there! I'm Vinnie. My team and I are competing in Game Development FBLA! Last year we won 6th place nationally in Chicago!
+Hi there! I'm Vi. My team and I are competing in Game Development FBLA! Last year we won 6th place nationally in Chicago!
 
 - 🐧 I am 18 years old.
 - ❗Linux > Windows > MacOS
