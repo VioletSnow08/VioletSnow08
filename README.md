@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Notice: I have officially moved off of GitHub. Please visit https://git.vinniehat.com!** (Projects still get updated here though!!)
+**Notice: I have unofficially moved off of GitHub. Please visit https://git.vinniehat.com!** (Projects still get updated here though!!)
 
-Hi there! I'm Vi. My team and I are competing in Game Development FBLA! Last year we won 6th place nationally in Chicago!
+Hi there! I'm Vi. My team and I are competing in Game Development for FBLA! Last year we won 6th place nationally in Chicago!
 
 - 🐧 I am 18 years old.
+- :rainbow_flag: Pronouns: She/Her & They/Them :transgender_flag:
 - ❗Linux > Windows > MacOS
 - 🖥️ I am currently working on: RoverCore, Grana, LegionCore, PrideHub
 - 🔤 Languages: English
