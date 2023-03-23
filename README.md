@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hi there! I'm Vi. My team and I are competing in Game Development for FBLA! Last year we won 6th place nationally in Chicago!
 
 - 🐧 I am 18 years old.
-- :rainbow_flag: Pronouns: She/Her & They/Them :transgender_flag:
+- :rainbow_flag: [Pronouns](https://en.pronouns.page/@VioletSnow): She/Her & They/Them :transgender_flag:
 - ❗Linux > Windows > MacOS
 - 🖥️ I am currently working on: RoverCore, Grana, LegionCore, PrideHub
 - 🔤 Languages: English
