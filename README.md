@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Notice: I have unofficially moved off of GitHub. Please visit https://git.vinniehat.com!** (Projects still get updated here though!!)
 
 Hi there! I'm Vi. My team and I are competing in Game Development for FBLA! Last year we won 6th place nationally in Chicago!
 
