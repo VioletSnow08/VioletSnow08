@@ -1,6 +1,6 @@
 <!--
 
-**vinniehat/vinniehat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VioletSnow08/VioletSnow08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there! I'm Vi. My team and I are competing in Game Development for FBLA! Last year we won 6th place nationally in Chicago!
+Hi there! I'm Vi. I am a student at Rochester Institute of Technology.
 
-- 🐧 I am 18 years old.
+- 🐧 I am 19 years old.
 - :rainbow_flag: [Pronouns](https://en.pronouns.page/@VioletSnow): She/Her & They/Them :transgender_flag:
 - ❗Linux > Windows > MacOS
-- 🖥️ I am currently working on: RoverCore, Grana, LegionCore, PrideHub
+- 🖥️ I am currently working on: Spark.NET and Cyber Security Projects
 - 🔤 Languages: English
-- ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS, Basic Python
-- 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, ASP(.NET Core)
+- ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS, Python
+- 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, ASP.NET (Core)
