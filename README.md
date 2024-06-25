@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Hi there! I'm Vi. I am a student at Rochester Institute of Technology.
 
 - 🐧 I am 19 years old.
-- :rainbow_flag: [Pronouns](https://en.pronouns.page/@VioletSnow): She/Her & They/Them :transgender_flag:
 - ❗Linux > Windows > MacOS
 - 🖥️ I am currently working on: Spark.NET (An ASP.NET Boilerplate) and am apart of the ZTL ARTCC Web Development Team.
 - 🔤 Languages: English
