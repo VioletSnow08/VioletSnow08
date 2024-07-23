@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there! I'm Vi. I am a student at Rochester Institute of Technology.
+Hi there!
 
 - 🐧 I am 19 years old.
-- ❗Linux > Windows > MacOS
-- 🖥️ I am currently working on: Spark.NET (An ASP.NET Boilerplate) and am apart of the ZTL ARTCC Web Development Team.
 - 🔤 Languages: English
 - ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS, Python
-- 🔢 Programming Frameworks/Libraries I know: Node.JS, React, Vue, ASP.NET (Core)
+- 🔢 Web Frameworks/Libraries I know: Vue & Nuxt, ASP.NET (Core), and Laravel
